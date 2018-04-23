@@ -1,0 +1,7 @@
+C:\Users\Monray\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Monray\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Monray\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Users\Monray\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Users\Monray\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Users\Monray\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\Monray\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
